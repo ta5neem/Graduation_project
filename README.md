@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Django REST Framework - UserRegistration-Authentication
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMexsonFernandes%2FDjango-REST-Framework-User-Registration-Authentication&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -26,3 +27,6 @@ Django app to register and authenticate user using REST API framework.
   - `python manage.py createsuperuser`
   - `python manage.py makemigrations`
   - `python manage.py migrate`
+=======
+# Graduation_project
+>>>>>>> 5626d1cfe21981295942ab821061a41eef95a967
